@@ -30,7 +30,7 @@ else
 fi
 
 SCRIPT_NAME="claude-launcher"
-SCRIPT_URL="https://raw.githubusercontent.com/YOUR_USERNAME/claude-code-launcher/main/claude-code-launcher.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/sengzhe/claude-code-launcher/main/claude-code-launcher.sh"
 
 echo -e "${BLUE}Installing to: ${GREEN}$INSTALL_DIR${NC}"
 echo ""
